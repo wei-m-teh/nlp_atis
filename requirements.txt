@@ -1,0 +1,7 @@
+keras
+tensorflow-gpu==1.15
+numpy
+matplotlib
+pydot
+sklearn
+pandas
